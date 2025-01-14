@@ -1,5 +1,11 @@
 # WHITE-KELLY-VOICE
 
+
+
+#මේවායේ සම්පූර්ණ අයිතිය 𝐖𝐇𝐈𝐓𝐄 𝐓𝐈𝐆𝐄𝐑- 𝐌𝐃 වෙන අතර කොපි කිරිම සපුරා තහනම්
+
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
    </p>
