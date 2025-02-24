@@ -15,10 +15,10 @@
 
 
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines= 𝐖𝐇𝐈𝐓𝐄 𝐓𝐈𝐆𝐄𝐑;New+Beginning+Developer;SHAGEE+MD" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines= SHAGEEE;New+Beginning+Developer;SHAGEE+MD" alt="Typing SVG" /></a>   
 </p> 
 
 
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines= 𝐖𝐇𝐈𝐓𝐄 𝐓𝐈𝐆𝐄𝐑;New+Voice+Helperr;SADHANI" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines= SHAGEE+MD;New+Voice+Helper;SADHANI" alt="Typing SVG" /></a>   
 </p> 
